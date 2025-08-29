@@ -1,0 +1,17 @@
+.overflow-x-auto::-webkit-scrollbar {
+          height: 8px;
+        }
+        
+        .overflow-x-auto::-webkit-scrollbar-track {
+          background: #212529;
+          border-radius: 4px;
+        }
+        
+        .overflow-x-auto::-webkit-scrollbar-thumb {
+          background: #495057;
+          border-radius: 4px;
+        }
+        
+        .overflow-x-auto::-webkit-scrollbar-thumb:hover {
+          background: #6c757d;
+        }
